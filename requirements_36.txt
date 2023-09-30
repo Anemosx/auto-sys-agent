@@ -1,0 +1,6 @@
+gym
+unityagents
+dotmap
+neptune_client
+scipy
+torch

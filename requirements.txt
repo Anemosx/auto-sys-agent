@@ -1,0 +1,11 @@
+gym
+dotmap
+carbontracker
+neptune_client
+matplotlib
+scipy
+torch
+mlagents_envs
+gym_unity
+seaborn
+unityagents

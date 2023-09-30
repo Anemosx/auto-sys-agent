@@ -1,0 +1,29 @@
+#PyCharm
+.idea
+__pycache__
+
+.neptune
+build
+
+neptune_auth.json
+
+# envs take lots of space
+envs
+
+!envs/Basic/.gitkeep
+
+logs
+
+plots
+
+.ipynb_checkpoints/
+
+unity-environment.log
+
+# local gym_unity lib
+gym_unity
+
+#for personal testing
+test.py
+
+results
